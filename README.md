@@ -1,0 +1,1 @@
+# 48024-assignment-1-oo-design-standard-patterns-lists-solved
